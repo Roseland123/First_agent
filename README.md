@@ -1,5 +1,3 @@
-It is my first AI Agent deployed by using below.
-
 ---
 title: First Agent Template
 emoji: ⚡
@@ -17,6 +15,7 @@ tags:
 - agent-course
 ---
 
+It is my first AI Agent deployed.
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
 Certification:
